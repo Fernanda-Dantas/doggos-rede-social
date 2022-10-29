@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+
+# doggos-rede-social
+Rede Social Doggos criada durante curso de React Completo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,6 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# doggos-rede-social
-Rede Social Doggos criada durante curso de React Completo
+
 >>>>>>> efe02f8fcb4c2341bb0f5cc7ea895032b1f2fd42
