@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/doggos-rede-social/static/css/main.e654f3ed.css",
+    "main.js": "/doggos-rede-social/static/js/main.ec9a2a45.js",
+    "static/css/37.e4ad25fc.chunk.css": "/doggos-rede-social/static/css/37.e4ad25fc.chunk.css",
+    "static/js/37.d90adffe.chunk.js": "/doggos-rede-social/static/js/37.d90adffe.chunk.js",
+    "static/js/215.dedaf86f.chunk.js": "/doggos-rede-social/static/js/215.dedaf86f.chunk.js",
+    "static/media/doggo_login.jpg": "/doggos-rede-social/static/media/doggo_login.c731b65c37e72c32bfe8.jpg",
+    "static/media/enviar.svg": "/doggos-rede-social/static/media/enviar.6af5e9dd22852c8f9db09226e587154f.svg",
+    "static/media/sair.svg": "/doggos-rede-social/static/media/sair.a1917210ebb96c5029ada5135bdb8847.svg",
+    "index.html": "/doggos-rede-social/index.html",
+    "static/media/visualizacao-black.svg": "/doggos-rede-social/static/media/visualizacao-black.ee94fd3d144dfc2f335a.svg",
+    "static/media/visualizacao.svg": "/doggos-rede-social/static/media/visualizacao.09cd5578a66295798789.svg",
+    "static/media/feed.svg": "/doggos-rede-social/static/media/feed.b8b13312eb97d7668cf865481902a8c3.svg",
+    "static/media/usuario.svg": "/doggos-rede-social/static/media/usuario.6d65a298e2fba2e83683.svg",
+    "static/media/dogs-footer.svg": "/doggos-rede-social/static/media/dogs-footer.63f53e229b3390044aba6627b25c0d9c.svg",
+    "static/media/dogs.svg": "/doggos-rede-social/static/media/dogs.69bf6d229e8cb46f9023318d0802ee8f.svg",
+    "static/media/estatisticas.svg": "/doggos-rede-social/static/media/estatisticas.c69dd1e16d1f351b25eb7f01658f7c8e.svg",
+    "static/media/adicionar.svg": "/doggos-rede-social/static/media/adicionar.2fe277f9b2182f23c15f5afd7110067a.svg",
+    "main.e654f3ed.css.map": "/doggos-rede-social/static/css/main.e654f3ed.css.map",
+    "main.ec9a2a45.js.map": "/doggos-rede-social/static/js/main.ec9a2a45.js.map",
+    "37.e4ad25fc.chunk.css.map": "/doggos-rede-social/static/css/37.e4ad25fc.chunk.css.map",
+    "37.d90adffe.chunk.js.map": "/doggos-rede-social/static/js/37.d90adffe.chunk.js.map",
+    "215.dedaf86f.chunk.js.map": "/doggos-rede-social/static/js/215.dedaf86f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e654f3ed.css",
+    "static/js/main.ec9a2a45.js"
+  ]
+}
